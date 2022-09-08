@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 from streamlit.elements.image import image_to_url
-import plotly.express as px
 from PIL import Image
 import datetime
 
